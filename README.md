@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @shivampadmani
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in computational modelling.
+- 📫 Connect Me:
+- Instagram @shivampadmani
+- Twitter @shivam_padmani
+- 
 
 <!---
 shivampadmani/shivampadmani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
