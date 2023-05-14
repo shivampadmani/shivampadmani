@@ -9,7 +9,7 @@
   - [x] Basic calculator with trigonomatry in __C++__
   - [x] Mohr Circle plotter and Principal Stress calculator with GUI using HTML,CSS,JS
   - [x] Moment of Inertia calculator for various standard cross sections using HTML,CSS,JS
-![](https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u)
+  - [ ] https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u
 
 <!---
 shivampadmani/shivampadmani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
