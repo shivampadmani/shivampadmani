@@ -10,7 +10,7 @@
   - [x] Mohr Circle plotter and Principal Stress calculator with GUI using HTML,CSS,JS
   - [x] Moment of Inertia calculator for various standard cross sections using HTML,CSS,JS
 ![527a9783c28c70962773a73db797ea4d](https://github.com/shivampadmani/shivampadmani/assets/56795691/c8e65eb1-e06e-41ac-9c68-d541632acfac)
-<img src="https://github.com/shivampadmani/shivampadmani/assets/56795691/c8e65eb1-e06e-41ac-9c68-d541632acfac" alt="alt text" width="30" />
+<img src="https://github.com/shivampadmani/shivampadmani/assets/56795691/c8e65eb1-e06e-41ac-9c68-d541632acfac" alt="alt text" width="300" />
 
 
 
