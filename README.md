@@ -2,7 +2,7 @@
 - 👀 Interested in computational modelling physics.
 -LinkedIn: https://www.linkedin.com/in/shivampadmani/
 Projects you can find here: 
-*Steam table property prediction using Artificial Neural Network 
+- Steam table property prediction using Artificial Neural Network 
 *Screw and nut position and dimension detection using Image processing
 *Brain tumor classification using Machine Learning (Guided project from Coursera)
 *Generalized Reduced Gradient Method in Python
