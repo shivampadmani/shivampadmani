@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shivampadmani
 - 👀 Interested in computational modelling physics.
-- LinkedIn: https://www.linkedin.com/in/shivampadmani/
+- <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin">: https://www.linkedin.com/in/shivampadmani/
 - Projects you can find here: 
   - [x] Steam table property prediction using __Artificial Neural Network__
   - [x] Screw and nut position and dimension detection using __Image processing__
