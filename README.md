@@ -3,8 +3,6 @@
 🎓 I worked on forward-forward learning paradigm during my master's at Indian Institute of Science
 💻 Built production grade systems using AI agents at Mphasis as Senior Data Scientist 
 
-💡 I’m driven by the goal of building models that are not just accurate, but interpretable and grounded in physical intuition.
-
 ## 🚀 Recent Projects
 - **Mechanical Equivalents of Neural Networks** – A research exploration of how neural network architectures can be interpreted using mechanical systems.
 - **Conditional GAN with Reconstruction Loss** – A hybrid GAN-decoder model trained with class-conditional constraints and reconstruction supervision.
